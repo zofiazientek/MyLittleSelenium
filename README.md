@@ -1,2 +1,2 @@
-# pliki
+# MyLittleSelenium
 moje pierwsze repozytorium
