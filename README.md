@@ -1,0 +1,2 @@
+# pliki
+moje pierwsze repozytorium
